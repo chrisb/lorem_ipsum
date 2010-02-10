@@ -20,7 +20,7 @@ Restart your server and you're ready to start generating some lorem ipsum!
 
 ## How to Use
 
-You now have the `lorem_ipsum` method at your disposal. It takes an options hash that includes any of the following keys: `sentences`, `paragraphs`, `words` (the `bytes` option is forthcoming). The key should map to the desired amount of text.
+You now have the `lorem_ipsum` method at your disposal. It takes an options hash that includes one of the following keys: `sentences`, `paragraphs`, `words` (the `bytes` option is forthcoming). The key should map to the desired amount of text.
 
 Take a look at this incredibly complex example:
 
